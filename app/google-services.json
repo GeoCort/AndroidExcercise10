@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "823480177216",
+    "project_id": "practice-affbd",
+    "storage_bucket": "practice-affbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823480177216:android:7797e61d2f07391eddc5a5",
+        "android_client_info": {
+          "package_name": "android.db.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6txYMzLWcLs67ZcHBzQLzsFZUbAHbexs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
